@@ -22,6 +22,7 @@ kits:
       - ironshovel 2
       - ironpickaxe 2
       - ironaxe 2
+      - golden_carrot 16
   dtools:
     delay: 600
     items:
